@@ -1,4 +1,4 @@
-# Objects
+# Lists
 
 ## FINAL PROJECT PROPOSAL:
 

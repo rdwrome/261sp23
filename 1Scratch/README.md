@@ -2,7 +2,7 @@
 
 ## Reading Group Reports
 
-## Basics principles
+## Basic principles
 - Functions: actions/verbs
 - Variables: grasp and store values
 - Boolean: true or false conditions

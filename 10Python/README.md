@@ -2,26 +2,11 @@
 
 ## Made from Scratch!
 
-## Compiled vs Interpreted Computer Languages
-- Compiled: human readable > machine readable
-- Interpreted: human readable > interpreter > machine readable
-
-## Compiled languages: Source, Object, Compiler, Executable
+## Compiled languages: Source, Object, Compiler, Executable Review
 - Source: what we write (human readable)
 - Compiler: translates from source to object
 - Object: binary (machine readable)
 - Executable: actually runs program
-
-## Compiled languages
-- Fortran
-- C
-- C++
-- Rust
-
-## Interpreted languages
-- Python
-- Ruby
-- JavaScript
 
 ## CLI vs IDE
 

@@ -133,49 +133,42 @@ print(f, f"Fahrenheit is: {c:.2f} Celsius")
 print("col1\tcol2\tcol3\ncol1\tcol2\tcol3\ncol1\tcol2\tcol3")
 </pre>
 
-## Bugs in the Wild
+## Object-oriented programming
+- Some languages can do it, some languages must do it, e.g. javaScript *can* do it, Python *must* do it
+- Principles of OOP
+    - Encapsulation
+  		- object: independent part of the program that manages itself (own rules and ways of doing things)
+      - objects are made up of values + variables
+      - objects are what Python manipulates
+      - objects are reusable
+      - a specific realization of an object is a
+  	- Inheritance
+      - objects get their functions from classes
+      - class: template, blueprint for creating objects
+  		- superclass is parent, class is child
+  		- class inherits attributes of parent (through abstraction) but modifies, evolves
+      - classes are reusable
+  	- Polymorphism
+  		- change the way something works by overriding and overloading
+      - change type, have multiple types work together
+  		- overriding: walk to moon walk
+  		- overloading: walk to run
 
-**Syntax**
+## Abstraction Redux
+	- Abstraction: to deal with complex systems, we can ignore inessential details of other parts of the program as long as we understand what they do
+	- In Python, modules and packages make the general language more specific with this use of abstraction
 
-- Your code broke a structure/expectation rule
+## Python Modules and Packages
+	- Modules: simple .py file that abstracts out specific information (functions, variables, other things)
+	- Packages (or libraries) are a collection of modules
+	 - out-of-date dependencies can be the root of all your evils
 
-**Runtime**
+## [ThinkDSP](https://greenteapress.com/thinkdsp/html/index.html)
+- [First Tutorial in Colab](https://colab.research.google.com/github/AllenDowney/ThinkDSP/blob/master/code/chap01.ipynb)
 
-- Something broke while it was running
+## [Other Python Packages](https://pypi.org/)
 
-**Semantic**
-
-- Something is not right and your computer doesn't know it but you do
-
-## Control Flow preview
-
-**Loops**
-<pre>
-count = 0
-while (count < 12):
-    count = count + 1
-    print("Happy Valentine's Day @}-,--")
-</pre>
-
-**IF/ELSE**
-<pre>
-# answer yes or no
-c = input("Answer: ")
-if c == "Yes" or c == "yes":
-	print("yes")
-elif c == "No" or c == "no":
-	print("no")
-</pre>
-
-**Conditions**
-<pre>
-# compare x and y
-x = input("integer, please, we'll call x: ")
-y = input("(another)integer, please, we'll call y: ")
-if x < y:
-  print("x is less than y")
-elif x > y:
-  print("x is greater than y")
-else:
-  print("x is equal to y")
-</pre>
+## Ways Rachel is using Python Modules for Music
+  - [Troop](https://github.com/Qirky/Troop)
+  - [Magenta](https://github.com/magenta/magenta/tree/main/magenta/models)
+    - [Coconet](https://github.com/magenta/magenta/tree/main/magenta/models/coconet)s
