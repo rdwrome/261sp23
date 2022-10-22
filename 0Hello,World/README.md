@@ -31,6 +31,7 @@
 - Semester@Berklee
 - Recent or Current Project You're Most Excited About
 - What operating system are you on?
+- How are you doing on storage?
 
 ## Big Picture
 - Survey of many languages
@@ -42,7 +43,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - metadata
-- Version Control with [Git + GitHub.com + GitHubDesktop](https://github.blog/2019-10-02-get-started-easier-with-github-desktop-2-2/)
+- Version Control with Git + GitHub.com + GitHubDesktop
   - your harddrive
   - "the cloud"
   - /a rant against iCloud
@@ -50,8 +51,8 @@
 
 ## Tools Setup Order of Operations
   - Download and install VSC (Visual Studio Code)
-  - Go to GitHub.com and make an account (your username should be kind of professional)
-  - Download and install GitHubDesktop
+  - Go to [GitHub.com](https://github.com/) and make an account (your username should be kind of professional)
+  - Download and install [GitHubDesktop](https://desktop.github.com/)
   - Sign into your GitHub account through GitHubDesktop
 
 ## THE TWO REPOSITORIES OF THIS CLASS
