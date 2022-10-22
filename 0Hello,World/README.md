@@ -5,7 +5,7 @@
 ## Computers are dumb; you are smart
 
 ## Binary Numbers
-![](https://github.com/rdwrome/lmsc261fa21/blob/main/0Hello%2CWorld/img/binarycounter.gif)
+![](img/binarycounter.gif)
 
 ## Context is everything
 - Context is called the "environment" in programming
@@ -16,13 +16,12 @@
 - e.g., music metaphors will work in this programming class because this is a music school
 
 ## Representing Data in Computers
-![](https://github.com/rdwrome/lmsc261fa21/blob/main/0Hello%2CWorld/img/emoji.png)
-
+![](img/emoji.png)
 
 ## Algorithmic Thinking & Algorithms
 - Thinking: breaking the steps of a long operation down into small, explicit substeps and anticipating contingencies
   - Cooking with recipes
-- Algorithm: chain of instructions each of which is a simple operation that accomplishes a complex task
+- Algorithms: chains of instructions for simple operations that come together to accomplish a complex task
 
 ## 20 Questions in Boolean Logic
 
@@ -43,17 +42,23 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - metadata
-- [Git + GitHub.com + GitHubDesktop](https://github.blog/2019-10-02-get-started-easier-with-github-desktop-2-2/)
+- Version Control with [Git + GitHub.com + GitHubDesktop](https://github.blog/2019-10-02-get-started-easier-with-github-desktop-2-2/)
   - your harddrive
   - "the cloud"
   - /a rant against iCloud
   - non-destructive editing
-  - version control
-  - 1) make account, 2) download and install VSC, then sign in with GitHub account 3) download and install GitHubDesktop, then sign in with GitHub account
 
-  ## [MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+## Tools Setup Order of Operations
+  - Download and install VSC (Visual Studio Code)
+  - Go to GitHub.com and make an account (your username should be kind of professional)
+  - Download and install GitHubDesktop
+  - Sign into your GitHub account through GitHubDesktop
 
-### Version Control with Git+GitHub.com+GitHubDesktop
+## THE TWO REPOSITORIES OF THIS CLASS
+  - My folder to share my materials with you
+  - Your folder to share your materials with me
+
+## Version Control with Git+GitHub.com+GitHubDesktop
 
 Git is a backup and collaboration tool for individuals and groups working together on software and hardware projects. GitHub is a particular platform on which a user can make use of Git features.
 
