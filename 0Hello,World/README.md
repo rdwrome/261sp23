@@ -2,22 +2,29 @@
 
 ## What is Computer Programming?
 
+## Computers are dumb; you are smart
+
 ## Binary Numbers
 ![](https://github.com/rdwrome/lmsc261fa21/blob/main/0Hello%2CWorld/img/binarycounter.gif)
 
 ## Context is everything
 - Context is called the "environment" in programming
 - Information that you can take for granted in the environment is "abstracted-out"
-- In "abstraction:" details are hidden behind large concepts
-  - music metaphors will work in this programming class because this is a music school
+
+## Abstraction
+- Lower-level implementation details are hidden below higher-level ideas
+- e.g., music metaphors will work in this programming class because this is a music school
 
 ## Representing Data in Computers
 ![](https://github.com/rdwrome/lmsc261fa21/blob/main/0Hello%2CWorld/img/emoji.png)
 
-## Algorithmic Thinking vs Algorithms
+
+## Algorithmic Thinking & Algorithms
 - Thinking: breaking the steps of a long operation down into small, explicit substeps and anticipating contingencies
   - Cooking with recipes
 - Algorithm: chain of instructions each of which is a simple operation that accomplishes a complex task
+
+## 20 Questions in Boolean Logic
 
 ## Introductions
 - Name+Pronoun
@@ -28,7 +35,7 @@
 
 ## Big Picture
 - Survey of many languages
-- Teaching you to problem-solve patiently and creatively
+- Teaching you to problem-solve patiently, precisely and creatively
 
 ## Syllabus
 
@@ -43,5 +50,41 @@
   - non-destructive editing
   - version control
   - 1) make account, 2) download and install VSC, then sign in with GitHub account 3) download and install GitHubDesktop, then sign in with GitHub account
+
+  ## [MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### Version Control with Git+GitHub.com+GitHubDesktop
+
+Git is a backup and collaboration tool for individuals and groups working together on software and hardware projects. GitHub is a particular platform on which a user can make use of Git features.
+
+Git does this by recording the changes you've made to a file rather than the file itself. This is why a focus is put on the lines added and removed from a project during any commit. This system makes two things easier: First, a user can revert to any previous commit. Say your software worked well yesterday, but now it's broken. If you're simply editing a file on your computer, you have no way of looking through your past actions. Second, GitHub doesn't need to store large amounts of data to store simple changes, as it only records the differences between files as opposed to the files themselves.
+
+### Making a New Repository
+
+In Github Desktop, a new repository (repo) can be created by clicking "Current Repository" on the top left, and then "add", and then "create new repository".
+
+A repo can also be downloaded from GitHub.com by clicking "Current Repository on the top left, and then "add", and then "clone repository". This will allow you to input the URL of the GitHub.com repo you'd like to clone and the destination you'd like to clone it to.
+
+Repositories are like folders but! they must have a file in them to be updated with git. Empty folders made on your computer cannot be synced up to GitHub.com.
+
+#### Logging Changes
+
+See the previous commits of a project in GitHub Desktop in the "History" pane of GitHub Desktop.
+
+#### Updating to GitHub.com: Staging, Committing, Pushing
+
+- Stage all (staging is where you customize what changes go into the commit)
+- Add commit message (explains what your change is)
+- Push to remote
+
+#### Updating from GitHub.com
+
+- Fetch: see what is changed
+- Merge: changes your local (hardrive) copy to match the remote/cloud (GitHub.com)
+- Pull: Fetch + Merge
+
+#### Other Resources
+
+There are many great online guides to Git, from a very simple one [here](http://rogerdudler.github.io/git-guide/) to a slightly more detailed one [here](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61). There is also a great [codecademy course](https://www.codecademy.com/learn/learn-git) on Git.
 
 ## Ford Reading Groups for Homework

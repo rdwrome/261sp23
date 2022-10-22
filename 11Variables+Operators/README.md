@@ -1,39 +1,4 @@
-## Memory
 
-**[How Computer Memory Works Ted-Ed by Kanawat Senanan](https://www.youtube.com/watch?v=p3q5zWCw8J4)**
-
-**RAM**
-
-	- Structure
-		- Address Line: where data moves in 1 bit pulses of electricity
-		- Data Line: where data is is stored (8 bits in every Byte)
-		- Transistor (type of semi-conductor): switches signals
-		- Capacitor: stores electricity
-
-![RAM](RAM.png)
-
-**Data Types**
-
-	- certain kinds of data take up certain amounts of memory
-	- integer is also 4 bytes or 32 bits in Python, float is 8 bytes or 64 bits
-
-
-**Memory Layout**
-
-	- Stack
-		- Where variables and functions hang out waiting to be used (environment)
-	- Heap
-		- Where to find free memory for environment
-	- Low address
-	- High address
-
-![stack](stack.png)
-
-**Memory Address**
-
-	- With characters/strings
-
-![memory address](indices.png)
 
 ## Previously on LMSC-261
 **Python**
