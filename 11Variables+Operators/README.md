@@ -1,5 +1,3 @@
-
-
 ## Previously on LMSC-261
 **Python**
 - High-level

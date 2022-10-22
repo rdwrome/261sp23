@@ -1,3 +1,5 @@
+## Read Chapters 1 & 2 in "Think Python"
+
 ## Assignment-Scratch
 
 - Implement a Scratch project with the following requirements:

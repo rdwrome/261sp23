@@ -1,5 +1,10 @@
 ## Assignment HTML
 
+## READING w/MD FOR NEXT WEEK!
+Chapters 13, 14, 15 & 18 in "Eloquent JavaScript"
+
+## FINAL PROJECT PROPOSAL DUE THE NEXT WEEK TOO?
+
 ### Homework for *before* class
 - *Your* GitHub Pages User Site up-and-running (meaning, the default index loads!)
 - Bring content to create a website for the in-class assignment

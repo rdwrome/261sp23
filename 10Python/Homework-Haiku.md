@@ -1,5 +1,7 @@
 ## Assignment - Haiku
 
+## Read Chapters 2 & 3 in "Think Python"
+
 ## Program
 - Find a [Haiku](https://www.poetryfoundation.org/learn/glossary-terms/haiku-or-hokku) or other very short poem, refrain.
 - Record an .aiff audio file of your computer "saying" the poem with the CLI
