@@ -54,7 +54,7 @@
 		- Transistor (type of semi-conductor): switches signals
 		- Capacitor: stores electricity
 
-![](/img/RAM.png)
+![](img/RAM.png)
 
 **Data Types**
 
@@ -71,13 +71,13 @@
 	- Low address
 	- High address
 
-![](/img/stack.png)
+![](img/stack.png)
 
 **Memory Address**
 
 	- With characters/strings
 
-![](/img/indices.png)
+![](img/indices.png)
 
 ## [Scratch](https://scratch.mit.edu/)
 - Sprites: characters
