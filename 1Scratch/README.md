@@ -18,6 +18,8 @@
 <br>Imagine we are each a machine. Give us precise instructions for a simple dance using one function, one condition, and one loop.</br>
 
 ## Code Reuse
+- Stand on the shoulders of giants
+- Be a good collaborator
 
 ## Compiled vs Interpreted Computer Languages
 - Compiled: human readable > machine readable
