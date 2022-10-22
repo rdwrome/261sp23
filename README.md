@@ -3,12 +3,12 @@
 Welcome, Programmers!!!
 
 ## Description
-In this course, students learn the fundamentals of computer programing that serve as a foundation for developing software applications and further exploration of programming languages. Instead of focusing on a single language or platform, this course prepares students to understand computer codes in general and to understand the role computers can play in solving real-world and creative problems. By recognizing the concepts that are universal in computer programming, students are better prepared to understand any codes they come across, providing them with advanced problem-solving skills that are important when adapting to different languages based on specific situations. The logical thinking and technical skills students learn in this course can be used to develop a wide range of practical applications on the web, and in game, software, and product development. Because Berklee is an Apple institution, software applications are used with MacOS.
+In this course, students learn the fundamentals of computer programing that serve as a foundation for developing software applications and further exploration of programming languages. Instead of focusing on a single language or platform, this course prepares students to understand computer code in general and to understand the role computers can play in solving real-world and creative problems. By recognizing the concepts that are universal in computer programming, students are better prepared to understand any codes they come across, providing them with advanced problem-solving skills that are important when adapting to different languages based on specific situations. The logical thinking and technical skills students learn in this course can be used to develop a wide range of practical applications on the web, and in game, software, and product development. Because Berklee is an Apple institution, software applications are used with MacOS.
 This is an introductory survey course of Python, JavaScript, HTML, and SQL.
 
 ## Class Resources
 
-**[Think Python, Second Edition](http://greenteapress.com/thinkpython2/html/index.html)**  
+**[Think Python, Second Edition](http://greenteapress.com/thinkpython2/html/index.html)**
 Allen B. Downey, 2015
 
 **[Eloquent JavaScript, Third Edition](https://eloquentjavascript.net/)**
@@ -50,7 +50,7 @@ Final Project| 30%
 ## Submissions and documentation
 
 ### Guidelines for submissions
-- Every assignment must be submitted via both GitHub and the OL
+- Every assignment must be submitted via both GitHub and the OL.
 - Late submissions will not be accepted, but I will drop the lowest homework grade.
 - Most assignments you submit must have two parts:
   - the code/program itself (eg. a .py file)
@@ -75,15 +75,18 @@ Final Project| 30%
 ## Instructor Info
 - Name: Rachel Devorah Wood Rome. Call me "Rachel" or "Dr. Rome" and use "she" pronouns.
 - Email: rrome@berklee.edu
-- Office Hour: 1126 Boylston Room 208, by preferential appointment Mondays 11-1pm. [Schedule an Appointment with Me Here.](https://calendar.google.com/calendar/selfsched?sstoken=UUJvY3FWa3g0b3dhfGRlZmF1bHR8OTk1YzM0YTAxMDljZGU5MGEzZjQxNzViOWQ2ZTM3NjA)
+- Office Hour: 1126 Boylston Room 208, preferentially by appointment Mondays 11-1pm. [Schedule an Appointment with Me Here.](https://calendar.google.com/calendar/selfsched?sstoken=UUJvY3FWa3g0b3dhfGRlZmF1bHR8OTk1YzM0YTAxMDljZGU5MGEzZjQxNzViOWQ2ZTM3NjA)
 
 ### Tutor Info
 - Name: TBD
 - Email: TBD
 - Office Hours: TBD
 
-## Attendance and Communication
+## Policies
 - Remote attendance is not permitted.
+- Assignment extensions are granted more than 12 hours in advance or with a note from your advisor.
+- Late assignments are not acccepted.
+- You will be held to the Berklee Policy on Honesty in Academic Work (see Student Handbook).
 - You must attend class with the computer you're using for class projects (no phones, no tablets, no borrowed laptops).
 - Keep your laptops closed and other electronic devices out of hand during lectures and discussions unless you're taking notes.
 - Excused absences may be granted in advance of class or with a doctors note specifying the day of the absence or a note from your advisor.
@@ -101,13 +104,3 @@ Final Project| 30%
 - The best way to communicate with me outside of class is *always* to make an appointment with me in my office hour.
 - If you need an accommodation for this course, please see [Accessibility Resources](https://www.berklee.edu/accessibility-resources) as soon as possible.
 - If you are subject to discrimination, harassment, or sexual misconduct in the Berklee community, please do not hesitate to talk to the [Equity Office](https://www.berklee.edu/equity).
-
-## Assignments and Environment
-- Assignment extensions are granted more than 12 hours in advance or with a note from your advisor.
-- Late assignments are not acccepted.
-- You will be held to the Berklee Policy on Honesty in Academic Work (see Student Handbook).
-- This is an Equitable learning environment.
-- Problem-solve constructively with respectful language;
-- Be patient with yourselves and others (especially when mistakes are made);
-- Never posture/pose/attitudinize;
-- Always speak up and admit when you do not understand something.
