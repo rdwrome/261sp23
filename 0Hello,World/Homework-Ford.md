@@ -1,14 +1,14 @@
 ## Assignment-Ford
 
-- Set up a GitHub.com account with a simple username you can use professionally
+**IF YOU HAVE NOT ALREADY DONE SO IN CLASS**
+- Download and install [Visual Studio Code](https://code.visualstudio.com/)- Set up a GitHub.com account with a simple username you can use professionally
 - Follow [me](https://github.com/rdwrome)
 - Accept my invitation to join the class private repository
 - Download and install [GitHub Desktop](https://desktop.github.com/)
-- Download and install [Visual Studio Code](https://code.visualstudio.com/)
 
 - Read over the syllabus. Bring any questions you have to the next class.
 
-- In GitHub Desktop, go to File > Clone Repository and clone the class private repository
+- In GitHub Desktop, go to File > Clone Repository and clone the class repository (261)
 - Setup GitHub/save the local file path (where the files are on your computer) somewhere you can easily find the files (i.e. Documents, Desktop NOT iCloud!)
 - Go to File > New repository
 - Create a new repository called "itp"
@@ -27,4 +27,4 @@
 - Copy this GitHub.com link and paste it into the OL. It should read something like:
 https://github.com/{YOURUSERNAME}/itp/blob/main/README.md
 
-This week you're submitting this single link to the OL Assignment-Ford drop box and you're done! Congratulations!
+This week you're submitting this single link to the Homework-Ford assignment in the OL! Congratulations!

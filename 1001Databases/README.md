@@ -85,7 +85,7 @@
     - The timing of two actions or events cause unexpected behavior
   - Injection Attack
     - Why you can't have certain characters in usernames and passwords
-    ![SQL Injection Attack Diagram](Screen%20Shot%202020-04-06%20at%2010.14.30%20AM.png)
+    ![](img/injection.png)
 
 **[DB Browser for SQLite](https://sqlitebrowser.org/dl/)**
 

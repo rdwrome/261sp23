@@ -5,7 +5,7 @@
 ## Compiled languages: Source, Object, Compiler, Executable Review
 - Source: what we write (human readable)
 - Compiler: translates from source to object
-- Object: binary (machine readable)
+- Object: binary (machine readable) (what did I say about this last week?)
 - Executable: actually runs program
 
 ## CLI vs IDE
@@ -57,17 +57,17 @@
 - High-level
 - General but!
 	- [Modules and libraries can make it more specific](https://wiki.python.org/moin/UsefulModules)
-		- Modules: simple .py file that abstracts out specific information (functions, variables, other things)
+		- Modules: simple .py file that "abstracts out" specific information (functions, variables, other things)
 		- libraries (or packages) are a collection of modules
 - Interpreted (executed by the interpreter vs. compiled)
   - Easier to debug
   - Runs a little slower
 - Object-oriented (much more on this later!)
 - Scripts are a sequence of definitions and commands executed in the shell
-<pre> >>> </pre>
 - #nocommentcomment
 
 **[Do You Have Python3?](https://www.python.org/downloads/)**
+
 - More functional standard libraries than 2
 - Some things only supported on 2, though
   - python --version
@@ -78,10 +78,11 @@
 	- pip3 --version
 
 **Running Python**
+
   - CLI
     - python3 hands.py
   - IDE
-		- Run&Debug vs. Run and Debug in VSC
+	- Run&Debug vs. Run and Debug in VSC
 
 ## Debugging in general
 - Frustrating
@@ -123,3 +124,5 @@
 - Hardest to figure out!
 - Go back to Pseudocoding
 - Break everything down into the smallest unit you can
+
+## Scratch Vs. Python (see .pdf in this folder)

@@ -1,8 +1,5 @@
 # Networks
 
-## [Make an Office Hour Appointment with me for a time before April 22](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJvY3FWa3g0b3dhfGRlZmF1bHR8OTk1YzM0YTAxMDljZGU5MGEzZjQxNzViOWQ2ZTM3NjA)
-- There will be no class on 4/20
-
 ## GitHub Branches
 
 - Git manages version control for you.
@@ -25,13 +22,13 @@
 - Merge your changes to the main branch!
 
 ## Anatomy of a Website
-![](anatomyofsite.png)
+![](img/anatomyofsite.png)
 
 ## Document Object Model
 - W3C World Wide Web standard
 - "Platform and language-neutral interface that allows programs and scripts to access and update the contetn, structure, and style of a document"
 - Core DOM is standard model for all documents, HTML DOM is for HTML documents
-![](DOM.png)
+![](img/DOM.png)
 
 ## HTML
 - HyperText Markup Language
@@ -57,7 +54,7 @@
   - TCP/IP Bundled with Unix in early 70s research computers
     - host-to-host
   - IP addresses mark uniquely identifiable servers
-  ![](snail.png)
+  ![](img/snail.png)
   - VPN, anyone?
   - **IPv4 v IPv6**, an interlude:
     - IPv4 could only represent about 4 billion values
@@ -69,7 +66,7 @@
   - The server doesn't automatically trust the browser (or vice-versa!)
 
 ### HyperText Transfer Protocol
-![](clientproxy.png)
+![](img/clientproxy.png)
   - a client-server protocol
   - browser (client/recipient) requests FETCHING of assets. (Where have we heard that before?)
   - Complete browser page is constructed from different fetched sub-documents (see Anatomy of a Website again.)
@@ -77,7 +74,7 @@
   - Cache (good for you) & Cookies (good for digital capitalism): stored on client side
 
 ### All together now:
-![](languages.png)
+![](img/languages.png)
   - Cascading Style Sheets make sites pretty
     - Inline vs External
   - JavaScript makes sites more interactive, dynamic
@@ -120,21 +117,12 @@
 - [Sample Website](https://kariestes.github.io/)
 
 ### Groups
-Linus
-Christopher S.
-Igor
-Trina
+TODO
 <br>
-Adam
-Dylan
-Ben
+TODO
 <br>
-Matthew
-Mychal
-Helen
-Christopher B.
+TODO
 <br>
-Joanna
-Yubin
-Audrey
-Michael
+TODO
+
+## FINAL PROJECT PROPOSAL

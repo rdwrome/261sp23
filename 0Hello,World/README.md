@@ -22,6 +22,7 @@
 - Thinking: breaking the steps of a long operation down into small, explicit substeps and anticipating contingencies
   - Cooking with recipes
 - Algorithms: chains of instructions for simple operations that come together to accomplish a complex task
+![](img/algorithm.png)
 
 ## 20 Questions in Boolean Logic
 
@@ -34,10 +35,10 @@
 - How are you doing on storage?
 
 ## Big Picture
-- Survey of many languages
-- Teaching you to problem-solve patiently, precisely and creatively
+- Survey of a few languages
+- Teaching you to problem-solve patiently, precisely, and creatively
 
-## Syllabus
+## Syllabus (the README.md for this whole repository)
 
 ## Tools of the Trade
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -53,17 +54,17 @@
   - Download and install VSC (Visual Studio Code)
   - Go to [GitHub.com](https://github.com/) and make an account (your username should be kind of professional)
   - Download and install [GitHubDesktop](https://desktop.github.com/)
-  - Sign into your GitHub account through GitHubDesktop
+  - Sign into your GitHub account *through* GitHubDesktop
 
 ## THE TWO REPOSITORIES OF THIS CLASS
-  - My folder to share my materials with you
-  - Your folder to share your materials with me
+  - One to share my materials with you (261)
+  - One to share your materials with me (itp)
 
 ## Version Control with Git+GitHub.com+GitHubDesktop
 
 Git is a backup and collaboration tool for individuals and groups working together on software and hardware projects. GitHub is a particular platform on which a user can make use of Git features.
 
-Git does this by recording the changes you've made to a file rather than the file itself. This is why a focus is put on the lines added and removed from a project during any commit. This system makes two things easier: First, a user can revert to any previous commit. Say your software worked well yesterday, but now it's broken. If you're simply editing a file on your computer, you have no way of looking through your past actions. Second, GitHub doesn't need to store large amounts of data to store simple changes, as it only records the differences between files as opposed to the files themselves.
+Git records changes you've made to a file rather than the file itself. This is why a focus is put on the lines added and removed from a project during any commit. This system makes two things easier: First, a user can revert to any previous commit. Say your software worked well yesterday, but now it's broken. If you're simply editing a file on your computer, you have no way of looking through your past actions. Second, GitHub doesn't need to store large amounts of data to store simple changes, as it only records the differences between files as opposed to the files themselves.
 
 ### Making a New Repository
 
@@ -71,7 +72,7 @@ In Github Desktop, a new repository (repo) can be created by clicking "Current R
 
 A repo can also be downloaded from GitHub.com by clicking "Current Repository on the top left, and then "add", and then "clone repository". This will allow you to input the URL of the GitHub.com repo you'd like to clone and the destination you'd like to clone it to.
 
-Repositories are like folders but! they must have a file in them to be updated with git. Empty folders made on your computer cannot be synced up to GitHub.com.
+Repositories are like folders but! they must have a file in them to be updated with Git. Empty folders made on your computer cannot be synced up to GitHub.com (the cloud).
 
 #### Logging Changes
 

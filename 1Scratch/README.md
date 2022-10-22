@@ -2,11 +2,20 @@
 
 ## Reading Group Reports
 
-## Basic principles
-- Functions: actions/verbs
+## Sequential Execution
+- Your instructions are executed in the same order they appear in your program (usually top to bottom)
+
+## Conditions
+- Something that must be true for something to happen
+- "Boolean logic" - the language of computers (0s and 1s)
+- "Evaluate to True" or "Evaluate to False"
+- Checks truth statement/checks for "truthiness"
+![](img/conditions.png)
+
+## Other Basic Principles
+- Functions: actions/verbs (little mini-programs that are "encapsulated")
 - Variables: grasp and store values
-- Boolean: true or false conditions
-- Loops: cycles, reiterations
+- Loops: cycles/reiterations of execution
 - Syntax: expectations information organization
 - Threads: multi-tasking
 
@@ -28,18 +37,15 @@
 ## Compiled languages: Source, Object, Compiler, Executable
 - Source: what we write (human readable)
 - Compiler: translates from source to object
-- Object: binary (machine readable)
+- Object: binary (machine readable) (*you'll need one of these for the homework next week, hint hint*)
 - Executable: actually runs program
 
 ## Compiled languages
 - Fortran
 - C
-- C++
-- Rust
 
 ## Interpreted languages
 - Python
-- Ruby
 - JavaScript
 
 ## Memory
@@ -47,36 +53,29 @@
 **[How Computer Memory Works Ted-Ed by Kanawat Senanan](https://www.youtube.com/watch?v=p3q5zWCw8J4)**
 
 **RAM**
+- Structure
+	- Address Line: where data moves in 1 bit pulses of electricity
+	- Data Line: where data is is stored (8 bits in every Byte)
+	- Transistor (type of semi-conductor): switches signals
+	- Capacitor: stores electricity
 
-	- Structure
-		- Address Line: where data moves in 1 bit pulses of electricity
-		- Data Line: where data is is stored (8 bits in every Byte)
-		- Transistor (type of semi-conductor): switches signals
-		- Capacitor: stores electricity
-
-![](img/RAM.png)
 
 **Data Types**
-
-	- certain kinds of data take up certain amounts of memory
-	- integer is also 4 bytes or 32 bits in Python, float is 8 bytes or 64 bits
+- certain kinds of data take up certain amounts of memory
+- integer is also 4 bytes or 32 bits in Python, float is 8 bytes or 64 bits
 
 
 **Memory Layout**
-
-	- Stack
-		- Where variables and functions hang out waiting to be used (environment)
-	- Heap
-		- Where to find free memory for environment
-	- Low address
-	- High address
-
+- Stack
+	- Where variables and functions hang out waiting to be used (environment)
+- Heap
+	- Where to find free memory for environment
+- Low address
+- High address
 ![](img/stack.png)
 
 **Memory Address**
-
-	- With characters/strings
-
+- the address is the "index" in a list, array, or string
 ![](img/indices.png)
 
 ## [Scratch](https://scratch.mit.edu/)

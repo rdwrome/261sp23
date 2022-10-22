@@ -1,4 +1,4 @@
-## Assignment - Mice
+# Assignment - Mice
 
 ## Read Chapters 5 & 7 in "Think Python"
 
@@ -11,4 +11,4 @@
 				Mice
 
 ## MarkDown file
-- Explain your choices and the problems you faced
+- Same as previous weeks: 2 things per chapter, documentation of creating program.

@@ -1,8 +1,10 @@
-## Pyramid
+# Functions
+
+## Pyramids and FizzBuzz!
 
 ## Functions
 - takes input value, does a process to it, returns an output value
-- we've been using many that are already in python, now we'll write our own
+- we've been using many that are already in python, now we'll write our own!
 
 - Function Definition + Call
   - definition has to come before call, but call happens where call happens
@@ -155,3 +157,7 @@ print(f"Factorial of {n} is {factorial(n)}")
   - can be called from within a function with the keyword `global`
   - mostly used for boolean statements
   - "the keysignature of variables"
+
+## Functions in Processing
+
+## The midterm is coming

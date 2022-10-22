@@ -1,4 +1,4 @@
-## Assignment - Haiku
+# Assignment - Haiku
 
 ## Read Chapters 2 & 3 in "Think Python"
 
@@ -11,5 +11,6 @@
 	- You'll need to use -o
 	- See aiff recording demo .png for even more hints
 
-## MarkDown file
-- Explain your choices and the problems you faced
+## Documentation
+- One thing you did know, one thing you didn't know for each chapter of the reading.
+- How you made the .aiff file as described under "Documentation" in the syllabus.

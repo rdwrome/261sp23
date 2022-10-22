@@ -5,13 +5,11 @@
 **Arrays**
 - All the data have to be the same type
 - Can handle arithmetic
-- Can't change the size of it later
 - They need a module
 
 **Lists**
 - Related data can be of different type
 - Can't handle arithmetic
-- Can change the size as you go
 - Don't need a module
 
 ## Intro to Lists in Python
