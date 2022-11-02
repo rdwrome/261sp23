@@ -55,7 +55,7 @@ print(instruments[1]) # Guitar
 print(instruments[2]) # Bass
 ```
 ### Lists & Loops
-- You can use a For Lopp to iterate through a list
+- You can use a for loop to iterate through a list
 - This is called *list traversal*
 ```Python
 instruments = ['Drum', 'Guitar', 'Bass']
@@ -69,14 +69,13 @@ instruments = ['Drum', 'Guitar', 'Bass']
 counter = 0
 
 for instrument in instruments:
-	instruments[counter] = "Kazoo"
 	counter += 1
 
 print(instruments)
 ```
 ### Lists in Processing
 - For loops are usually usedt to iterate through lists in Processing
-- You can also a For Loop to put data *inside* a list, as is the case in the sinewave.pyde example
+- You can also a for loop to put data *inside* a list, as is the case in the sinewave.pyde example
 	- values from the sin() function are being written to a list in the setup() function, then they become the stroke values in the draw() function
 - Something similar is happening in the two record pyde examples
 	- at every frame, the mouseY is replaced with a new posiiton
