@@ -118,6 +118,7 @@ help('random.random')
 ```
 
 ## Writing Text Files in Python
+- They're writing to somewhere like: /Users/rrome/LoremIpsum.txt
 ```Python
 file = open("LoremIpsum.txt", "w")
 file.write(
