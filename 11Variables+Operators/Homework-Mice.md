@@ -8,7 +8,7 @@
 			Blind
 				Mice
 
-3. SUBMIT (as a link in the OL to an assignment folder in *your* GitHub repository:
+3. SUBMIT (as a link in the OL to an assignment folder in *your* GitHub repository):
 	- Your .py file
 	- A documentation file (in Markdown as an .md file!) that includes:
 		a) one thing you knew and one thing you did not know for each chapter of the reading and

@@ -87,7 +87,7 @@
 ## Debugging in general
 - Frustrating
 - Most of what programming is
-- ALWAYS BE DOCUMENTING (ABD!)
+- ALWAYS BE DOCUMENTING YOUR DEBUGGING!!! (ABDYD!!!)
 - Think of it as detective work
 	- You're given evidence  and have to infer what happened
 - Or think of it as a science experiment

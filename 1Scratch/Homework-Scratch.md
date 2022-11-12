@@ -9,7 +9,7 @@
 	- Must use at least one variable.
 	- Must use at least one sound.
 
-3. SUBMIT (as a link in the OL to an assignment folder in *your* GitHub repository:
+3. SUBMIT (as a link in the OL to an assignment folder in *your* GitHub repository):
 	- Your Scratch Project as an .sb3 file
 	- A documentation file (in Markdown as an .md file!) that includes:
 	a) one thing you knew and one thing you did not know for each chapter of the reading and
