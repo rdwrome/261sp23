@@ -11,7 +11,7 @@
 **If**
 - Executes one part of the program if **True**
 - If **False**, jump to the end of the statement
-- One path
+![](img/if.png)
 ```python
 midiNote = 64
 if midiNote < 0 or midiNote > 127:
@@ -20,11 +20,11 @@ if midiNote >= 0 and midiNote <= 127:
   print("The note value entered is a valid MIDI note.")
   print("MIDI note value is", midiNote)
 ```
-**Else**
+**If Else**
 - Executes one part of the program if **True**
 - If **False**, executes another part of the program
 - Then jumps to end of the statement
-- Two paths
+![](img/ifelse.png)
 ```python
 midiNote = 64
 if midiNote <= 0 or midiNote >= 127:
