@@ -1,15 +1,15 @@
 # Assignment - Mice
 
-## Read Chapters 5 & 7 in "Think Python"
+1. Read Chapters 5 & 7 in "Think Python"
 
-## Program
-- Create a file named `{yourlastname}mice.py`.
-- Write a Python program that prints out the following lines using **only one** `print` function and where the number 3 is a value (the result of a calculation):
+2. Write a Python program (named `{yourfamilyname}mice.py`) that prints out the following lines using **only one** `print` function and where the number 3 is a value (the result of a calculation):
 
 		3
 			Blind
 				Mice
 
-## Documentation
-- One thing you knew and one thing you did not know for each chapter of the reading.
-- Making your `mice.py` with specifications outlined for documentation files in the syllabus.
+3. SUBMIT (as a link in the OL to an assignment folder in *your* GitHub repository:
+	- Your .py file
+	- A documentation file (in Markdown as an .md file!) that includes:
+		a) one thing you knew and one thing you did not know for each chapter of the reading and
+		b) documentation of the .py file as outlined in the syllabus.

@@ -1,6 +1,6 @@
 # Homework - Pyramid
 
-## Program 1
+1. Pyramid
 - Create a file named `{yourlastname}pyramid.py`.
 - Write a program that prints out a pyramid that looks like this:
 
@@ -54,7 +54,7 @@ for i in range(num):
   print()
 ```
 
-## Program 2
+2. FizzBuzz
 - Create a file named `{yourlastname}fizzbuzz.py`.
 - Write a Python program that prints all the integers between 1 and 100, except in three situations:
 
@@ -73,5 +73,6 @@ The first 5 integers in the console should look like this:
 						Buzz
 </pre>
 
-## Documenation
-- Document the making of BOTH programs as specified in the syllabus.
+3. SUBMIT (as a link in the OL to an assignment folder in *your* GitHub repository):
+	- Your two .py files
+	- A documentation file (in Markdown as an .md file!) that includes information about both .py files as outlined in the syllabus.

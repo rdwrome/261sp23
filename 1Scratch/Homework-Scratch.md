@@ -9,4 +9,8 @@
 	- Must use at least one variable.
 	- Must use at least one sound.
 
-3. Project must be saved as a .sb3 file in a folder for this week in *your* GitHub class repo and linked to the OL! Folder must also contain a .md documentation file. The documentation file must have a) one thing you knew and one thing you did not know for each chapter of the reading and b) the specifications outlined for documentation files in the syllabus.
+3. SUBMIT (as a link in the OL to an assignment folder in *your* GitHub repository:
+	- Your Scratch Project as an .sb3 file
+	- A documentation file (in Markdown as an .md file!) that includes:
+	a) one thing you knew and one thing you did not know for each chapter of the reading and
+	b) documentation of the .sb3 file as outlined in the syllabus.
