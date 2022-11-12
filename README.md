@@ -32,8 +32,8 @@ Marijn Haverbeke, 2018
 4. 100 Control Flow
 5. 101 Functions
 6. 110 Lists
-7. 111 Networks
-8. 1000 JavaScript
+7. 111 Networks (2 weeks)
+8. 1000 JavaScript (2 weeks)
 9. 1001 Databases
 
 ## Assignments and Grading
@@ -43,8 +43,8 @@ Description|Grade
 ---|---:|
 Attendance and Participation|30%
 Homework| 30%
-Midterm| 10%
-Final Project| 30%
+Midterm - March 16| 10%
+Final Project - May 11| 30%
 **Total**|**100%**
 
 ## Submissions and documentation

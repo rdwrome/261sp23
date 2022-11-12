@@ -6,7 +6,7 @@ The mid-term project is an opportunity to solidify your newly acquired programmi
 ### Phase 1: Sketch Your Visual Object
 Sketch your visual object using a pen and graph paper. Remember that your visual object must at least have three shapes. Below is an example object consisting of five shapes drawn on a graph paper:
 
-![](./imgs/MusicalNote.png)
+![](./img/MusicalNote.png)
 
 It is recommended that your sketch uses basic primitive shapes, such as circle, ellipse, rectangle, square, triangle, and quadrilateral. Once you are done with your design, take a picture and include it in your mid-term project folder for submission with the name `Phase1` in it.
 
@@ -37,7 +37,7 @@ def draw():
 
 We can see in the original sketch that the visual object is composed of three rectangles and two ellipses. The example sketch assumes 10 pixels per grid for translation. In the `setup()` function, we change the canvas size to 150 px x 150 px using the `size()` function. We also tell Processing that we do not want to draw any stroke using the `noStroke()` function. In the `draw()` function, we tell Processing to fill all shapes with black color using the `fill()` function. We then use the `rect()` function to draw three rectangles. The first two inputs of the `rect()` function are x- and y-coordinates where we want to draw the rectangle. The last two inputs specify the size of the rectangle in terms of its width and height in pixels. Finally, we use the `ellipse()` function to draw two ellipses. The inputs to the `ellipse()` function is the same as the `rect()` function. The result of the Processing sketch with the above code looks like this:
 
-![](./imgs/MusicalNoteProcessing.png)
+![](./img/MusicalNoteProcessing.png)
 
 In the process of translating your sketch, determine which shape function you need using [this reference](https://processing.org/reference/#shape). Try to stick to using `2D Primitives` as they are easier to use. Make sure to have at least three shapes in your Processing sketch. Include your Processing sketch in the mid-term folder for submission.
 
@@ -101,15 +101,15 @@ To effectively use the entire canvas, you must divide the canvas into a grid and
 
 When we have a 5-by-5 grid with a canvas size 400-by-400 pixels, the tiles using the example visual object from above will look like this:
 
-![](./imgs/5.png)
+![](./img/5.png)
 
 When we have a 10-by-10 grid with a canvas size 400-by-400 pixels, the tiles using the example visual object from above will look like this:
 
-![](./imgs/10.png)
+![](./img/10.png)
 
 When we have a 20-by-20 grid with a canvas size 400-by-400 pixels, the tiles using the example visual object from above will look like this:
 
-![](./imgs/20.png)
+![](./img/20.png)
 
 Hint: Use nested for-loops to tile your visual objects. The first loop goes through the x-axis of your canvas. The second loop goes through the y-axis of your canvas. You can multiply the cell width with the current x position in the nested for-loop to position your object in the x-axis. For the y-axis, this will be the cell height multiplied by the current y position.
 
@@ -126,7 +126,8 @@ Hint: Use nested for-loops to tile your visual objects. The first loop goes thro
 
 Description|Grade
 ---|---:|
-Documentation file is complete. | 20%
+Documentation file is complete. | 10%
+Project is presented clearly in class. | 10%
 Phase 1 fulfills the requirements. | 20%
 Phase 2 fulfills the requirements. | 20%
 Phase 3 fulfills the requirements. | 20%
