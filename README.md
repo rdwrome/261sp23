@@ -52,24 +52,24 @@ Final Project| 30%
 ### Guidelines for submissions
 - Every assignment must be submitted via both GitHub and the OL.
 - Late submissions will not be accepted, but I will drop the lowest homework grade.
-- All but the first assignment you submit must have two parts:
+- Most assignments you submit must have two parts:
   - the code/program itself (eg. a .py file)
   - documentation of the code/program (always a .md file)
 
 ### Steps to submit via GitHub+theOL
   1. Make a folder in your GitHub private repository named after the assignment (i.e. {yourusername}/itp/ford, {yourusername}/itp/scratch, etc.)
-  2. Commit all parts of your assignment (code+documentation) into that repository
-  3. Submit the link to that repository in the OL
+  2. Commit all parts of your assignment (code+documentation) into the assignment repository folder
+  3. Submit the link for the assignment repository folder in the OL
 
 ### Documentation outline
-  - The documentation (again, always in Markdown) must have the following:
+  - The documentation (again, always in Markdown as a .md file) must have the following:
     - what you did
     - how you did it
-    - the problems you faced (ABD: always be documenting your troubleshooting!)
+    - the problems you faced (ABDYD: always be documenting your debugging!)
     - how you overcame them
     - *what code you used from others/elsewhere*
-      - where to find that code
-    - If your problem set does not run correctly document all of the troubleshooting you did and the error messages you faced in the documentation. I will take points off for code that does not compile and run, but will still give partial credit if it is well-documented.
+      - where to find that code (specific links!)
+    - If your problem set does not run correctly document all your debugging. I will take points off for code that does not run correctly, but will still give partial credit if it is well-documented.
     - For the purposes of this class, your documentation also helps you prepare to talk about your code in class with your colleagues.
 
 ## Instructor Info
