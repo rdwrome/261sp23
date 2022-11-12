@@ -1,19 +1,34 @@
 # Networks
 
+## [An outstanding Final Project](https://dylanever.itch.io/ibi)
+
+## LMSC-261 recommendations for final projects:
+  - [A-Frame](https://aframe.io/)
+  - [RenPy](https://www.renpy.org/)
+  - [Adafruit](https://www.adafruit.com/)
+  - Useful databases
+  - API interactions
+  - Portfolio Website
+
+## Housekeeping
+  - Final Project Proposal & Eloquent JavaScript reading due December 1 (three weeks)
+  - Homework-Band due November 17 (next week)
+
 ## GitHub Branches
 
 - Git manages version control for you.
 - GitHub Desktop is an application that manages Git and syncs it between your local server (the harddrive of your computer) and your remote server (GitHub.com's cloud).
 - So far, you've only used Git to version control independent projects.
 - Now we're going to use a GitHub feature called **branches** to push changes you make to others and pull changes from others so that you can work collaboratively.
-- [Anatomy of a Branch](https://guides.github.com/introduction/flow/)
+- [Anatomy of a Branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
 - The central branch is called **main** (this is where your commits will go if no other branch is specified - but we don't want to edit the main branch if we're working collaboratively [used to be called "master"]).
 - Branches exist as separate until a `merge` is executed.
 - To make a branch in the Github Desktop app, click on "Current Branch" in the top bar and then click "new branch".
 - To checkout a branch in the Github Desktop app, click "Current Branch" and then click on the branch you'd like to checkout.
 - To merge a branch on GitHub Desktop, click "Current Branch" and then "Choose a branch to merge into...".
+- Individual branches: practice time; **main**/
 
-## Rachel makes a branch of the class repository
+## Rachel makes a branch of the class repository on rdwrome.github.io
 
 ## Everyone makes a branch of the class repository
 - Before *anything* make sure you have pulled my most up-to-date main branch!
@@ -24,17 +39,17 @@
 ## Anatomy of a Website
 ![](img/anatomyofsite.png)
 
-## Document Object Model
-- W3C World Wide Web standard
-- "Platform and language-neutral interface that allows programs and scripts to access and update the contetn, structure, and style of a document"
-- Core DOM is standard model for all documents, HTML DOM is for HTML documents
-![](img/DOM.png)
-
 ## HTML
 - HyperText Markup Language
 - References something else that can be immediately accessed
 - MarkDown is HTML-lite: a text-editor to HTML quick converter.
 - HTML: more tags, more structure, more reference options than MarkDown
+
+## Document Object Model
+- W3C World Wide Web standard
+- "Platform and language-neutral interface that allows programs and scripts to access and update the content, structure, and style of a document"
+- Core DOM is standard model for all documents, HTML DOM is for HTML documents
+![](img/DOM.png)
 
 ## Servers and Ports
 - HTML documents and other assets have to be hosted on servers
@@ -45,6 +60,7 @@
 ## Protocols
 - What protocols do you know and love?
   - MIDI?
+
 ### Transmission Control Protocol/ Internet Protocol
   - Rules that specify how computers can communicate with each other
   - Internet relies on these protocols to work
@@ -113,16 +129,3 @@
 - **[Building a Website with pages.github.com](https://pages.github.com/)**
 	- User site
 	- GitHub Desktop!
-
-- [Sample Website](https://kariestes.github.io/)
-
-### Groups
-TODO
-<br>
-TODO
-<br>
-TODO
-<br>
-TODO
-
-## FINAL PROJECT PROPOSAL

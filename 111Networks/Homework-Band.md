@@ -3,7 +3,7 @@
 ## READING w/MD FOR NEXT WEEK!
 Chapters 13, 14, 15 & 18 in "Eloquent JavaScript"
 
-## FINAL PROJECT PROPOSAL DUE THE NEXT WEEK TOO?
+- [Sample Website](https://kariestes.github.io/)
 
 ### Homework for *before* class
 - *Your* GitHub Pages User Site up-and-running (meaning, the default index loads!)
