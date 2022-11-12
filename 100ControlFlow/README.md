@@ -1,10 +1,10 @@
 # Control Flow
-- Order in which statements are evaluated by the interpreter
+- Order in which statements are evaluated by the **interpreter**
 
 ## Conditional Statements
-- Order is determined by conditional (decision-making) statements
+- Control flow is determined by conditional (decision-making) statements
 - Conditional statements use Boolean Logic (testing for truthiness!)
-- In Python: if, if-else, if-elif-else are are our primary conditional statements.
+- In Python: if, if-else, if-elif-else are our primary conditional statements
 - If, if-else, and if-elif-else are all **iterative** conditional statements, meaning they're not self-referential
 
 ### Iterative Conditional Statements
@@ -33,7 +33,8 @@ else:
   print("The note value entered is valid.")
 ```
 **If/Elif/Else Conditions**
-<pre>
+- Daisy-chained If Else statements
+```python
 midiNote = 64
 if midiNote < 64:
   print("MIDI note is smaller than 64.")
@@ -41,10 +42,10 @@ elif midiNote > 64:
   print("MIDI note is greater than 64.")
 else:
   print("MIDI note is equal to 64.")
-</pre>
+```
 
 **Nested If/Else**
-<pre>
+```python
 midiNote = 64
 if midiNote < 64:
     print("MIDI note is smaller than 64.")
@@ -54,28 +55,7 @@ if midiNote < 64:
       print(f"The note name for {midiNote} is E1.")
 else:
     print("MIDI note is greater than or equal to 64.")
-///
-number = int(input("Enter a positive integer number: "))
-if number > 0:
-  if number % 2:
-    print("The number is odd.")
-  else:
-    print("The number is even.")
-else:
-  print("The number you enter must be a positive integer number.")
-</pre>
-- With And/Or Statements
-<pre>
-first = int(input("Enter the first number: "))
-second = int(input("Enter the second number: "))
-third = int(input("Enter the third number: "))
-if first == second and second == third:
-  print("Three numbers are equal.")
-elif first == second or second == third or third == first:
-  print("Two numbers are equal.")
-else:
-  print("None are equal.")
-</pre>
+```
 
 #### Group Exercise:
 <pre>
@@ -95,90 +75,96 @@ else:
   - count
   - index range
 - While loops: you don't know how many times you need to loop
+![](img/while.png)
 - For loops: you do know how many times you need to loop
-- Leave the loop when the condition is no longer satisfied
+![](img/for.png)
 
 **While with count**
-<pre>
+```python
 count = 0
 while (count < 3): 	
   count = count + 1
   print("Happy Thursday")
-</pre>
+```
 
 **While/Else loop**
-<pre>
+- Else gives secondary path
+![](img/whileelse.png)
+```python
 count = 0
 while (count < 3): 	
   count = count + 1
   print("Happy Monday")
 else:
   print("Happy Tuesday")
-</pre>
+```
 
 **For with index range**
-<pre>
+```python
 # Starts at 0 and goes up by one by default
 for i in range(128):
   print(f"The next MIDI note value is {i}")
-///
 # Increment by 2 instead
 for i in range(0, 128, 2):
   print(f"The next MIDI note value is {i}")
-</pre>
+```
 
 **For with index range and nesting**
-<pre>
+```python
 for index in range(1500, 2701, 1):
   if index % 7 == 0 and index % 5 == 0:
     print(index)
-///
+```
+```python
 for i in range(10):
   for j in range(10):
     if j >= i:
       print(j, end='')
   print()
-///  
+```
+```python
 num = int(input("Enter a number: "))
 if num > 0:
   for index in range(num):
     print('*', end='')
     if index % 5 == 4:
       print()
-</pre>
+```
 
 ## Recursive Control Flow
-- A function that calls itself is recursive; the process of executing it is called recursion.
+- Self-referential
+- A function that calls itself
 - Factorials (8*7*6*5*4*3*2*1=40320) and the [Fibonacci sequence](https://www.mathsisfun.com/numbers/fibonacci-sequence.html) are recursive:
   - Marked by self-similarity
   - Expresses a problem in terms of a smaller version of the same problem
 - This *can sometimes* be the most efficient way to ask a computer to solve a problem
 - Can also be a tricky way to get a computer to solve a problem
-<pre>
-### good recursion
+```python
+# good recursion
 def factorial(n):
   if n <= 1:
     return 1
   else:
     result = factorial(n-1)
     return n*result
-///
-factorial(ZZZ)
-### can't stop won't stop - infinite recursion! stack overflow!
+factorial(5)
+```
+```python
+# can't stop won't stop - infinite recursion! stack overflow!
 def func():
   print("Lovely!")
   func()
-///
 func()
-///
-### recursion with a stop or base case
+```
+```python
+# recursion with a stop or base case
 def func(count):
   if count < 0:
     return
   print(f"{count} Lovely!")
   func(count - 1)
 ///
-func(ZZZ)
-</pre>
+func(5)
+```
 
 ## [Processing](https://processing.org/download)
