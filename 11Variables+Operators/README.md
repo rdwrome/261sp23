@@ -1,34 +1,29 @@
 ## Previously on LMSC-261
 **Python**
 - High-level
-- General but!
-	- [Modules and libraries can make it more specific](https://wiki.python.org/moin/UsefulModules)
-		- Modules: simple .py file that abstracts out specific information (functions, variables, other things)
-		- libraries (or packages) are a collection of modules
 - Interpreted
-  - Easier to debug
-  - Runs a little slower
 - Object-oriented
-- Scripts are a sequence of definitions and commands executed in the shell
-- #nocommentcomment
 
 **Objects**
 - Made up up values (result of calculation) and variables
 - What Python manipulates
+- Almost everything in Python is an object
+- Every object has a **type** that defines the kinds of things that programs can do with that object
 
-**Variables**
-- Binds names to objects
-- Variables are really easy to assign and reassign
-- We can parameter pass
+**Data Types**
+- Python has a built in function called **type()** to learn the type of an object
+- These are the four types we'll deal with in Python
 - CODE ALONG
 ```Python
-	one = 1
-	two = 2
-	three = one + two
-	print(three)
+type(10) #integer
+type(10.) #float
+type("hello,world") #string
+type(True) #boolean
 ```
 
 **Operators**
+- Used to perform operations on objects
+- Also sometimes called "operands"
 - Simple
 ```Python
 +
@@ -48,8 +43,21 @@
 **Expressions**
 - Made up of objects+operators
 
-**Keywords**
-- Only variable naming rules
+**Variables**
+- Declare a variable, bind an object to it with the = operator
+- Variables are really easy to bind and rebind
+- CODE ALONG
+```Python
+one = 1
+two = 2
+cat = one + two
+print(cat)
+```
+**Naming Variables and Keywords**
+- You also can't use special characters other than _
+- Variable names should start with letters
+- They're case sensitive
+- You can't use the words below to declare variables because they're keywords
 ```Python
 False      class      finally    is         return
 None       continue   for        lambda     try
@@ -59,38 +67,24 @@ as         elif       if         or         yield
 assert     else       import     pass
 break      except     in         raise
 ```
+**Python + Memory Address**
 
-## Python + Memory Address
-
-**Strings**
+## Strings
 ```Python
-	#len function
-	len('rachel devorah wood rome')
-	///
-	#indexing
-	myName = 'rachel'
-	///
-	myName[3]
-	///
-	#slicing
-	myName[0:3]
-	///
-	myName[2:4]
-	///
-	myName[0:]
-	#concatenation
-	'yum'+'my'
-	'yum' * 3
+#len function
+print(len('rachel devorah wood rome'))
+#indexing
+myName = 'rachel'
+print(myName[3])
+#slicing
+print(myName[0:3])
+print(myName[2:4])
+#concatenation
+print('yum'+'my')
+print('yum' * 3)
 ```
 
 ## Input and Output
-- type
-```Python
-type(10)
-type(10.5)
-type("Hello, World!")
-type(True)
-```
 - Get String
 ```Python
 str = input("Name: ")
@@ -98,17 +92,13 @@ print("Hello,", str)
 ```
 - Printing paramenters and f-String
 ```Python
-#str = input("Name: ")
 print("Hello,", str, sep='')
-///
-#str = input("Name: ")
 print(f"Hello, {str}")
 ```
 - Printing floating points
 	- what is π?
 ```Python
 z = 3.14159265358979323846264338327950288419716939937510
-///
 print(f"{z}")
 print(f"{z:.50f}")
 ```
@@ -119,17 +109,16 @@ bags = 3
 bananas = 12
 print(f"{bananas} bananas were split into {int(bananas / bags)}groups to fit into {bags} bags.")
 ```
-	- float (with parameter passing)
-```Python
-f = 99
-c = (f - 32) * 5 / 9
-print(f, f"Fahrenheit is: {c:.2f} Celsius")
-```
 - Special characters
 - tab and new line
 ```Python
 print("col1\tcol2\tcol3\ncol1\tcol2\tcol3\ncol1\tcol2\tcol3")
 ```
+## Excersize:
+- Write a program that converts 99 Fahrenheit to Celsius
+- Create two variables, **f** and **c**
+- Use the equation:
+	- Celsius = (Fahrenheit - 32)  5 / 9
 
 ## Object-oriented programming
 - Some languages can do it, some languages must do it, e.g. javaScript *can* do it, Python *must* do it
@@ -150,4 +139,6 @@ print("col1\tcol2\tcol3\ncol1\tcol2\tcol3\ncol1\tcol2\tcol3")
   		- change the way something works by overriding and overloading
       - change type, have multiple types work together
   		- overriding: walk to moon walk
-  		- overloading: walk to run
+  		- overloading: walk to
+
+## [Processing](https://processing.org/download)

@@ -10,5 +10,6 @@
 			Blind
 				Mice
 
-## MarkDown file
-- Same as previous weeks: 2 things per chapter, documentation of creating program.
+## Documentation
+- One thing you knew and one thing you did not know for each chapter of the reading.
+- Making your `mice.py` with specifications outlined for documentation files in the syllabus.

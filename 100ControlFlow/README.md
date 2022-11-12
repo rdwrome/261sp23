@@ -1,65 +1,37 @@
 # Control Flow
-- In an interpreted language like Python: order in which statements (units of execution) are evaluated by the interpreter.
+- Order in which statements are evaluated by the interpreter
 
-## Recursive Control Flow
-- A function that calls itself is recursive; the process of executing it is called recursion.
-- Factorials (8*7*6*5*4*3*2*1=40320) and the [Fibonacci sequence](https://www.mathsisfun.com/numbers/fibonacci-sequence.html) are recursive:
-  - Marked by self-similarity
-  - Expresses a problem in terms of a smaller version of the same problem
-- This *can sometimes* be the most efficient way to ask a computer to solve a problem
-- Can also be a tricky way to get a computer to solve a problem
-<pre>
-### good recursion
-def factorial(n):
-  if n <= 1:
-    return 1
-  else:
-    result = factorial(n-1)
-    return n*result
-///
-factorial(ZZZ)
-### can't stop won't stop - infinite recursion! stack overflow!
-def func():
-  print("Lovely!")
-  func()
-///
-func()
-///
-### recursion with a stop or base case
-def func(count):
-  if count < 0:
-    return
-  print(f"{count} Lovely!")
-  func(count - 1)
-///
-func(ZZZ)
-</pre>
+## Conditional Statements
+- Order is determined by conditional (decision-making) statements
+- Conditional statements use Boolean Logic (testing for truthiness!)
+- In Python: if, if-else, if-elif-else are are our primary conditional statements.
+- If, if-else, and if-elif-else are all **iterative** conditional statements, meaning they're not self-referential
 
-## Iterative Control Flow
-- Not self-referential
-
-### Conditional Execution
+### Iterative Conditional Statements
 **If**
-- Creates branches, new routes to proceed through.
-- Uses boolean conditions to check if statements are true before proceeding.
-<pre>
+- Executes one part of the program if **True**
+- If **False**, jump to the end of the statement
+- One path
+```python
 midiNote = 64
 if midiNote < 0 or midiNote > 127:
-  print("\nThe note value entered is an invalid MIDI note.\n")
+  print("The note value entered is an invalid MIDI note.")
 if midiNote >= 0 and midiNote <= 127:
   print("The note value entered is a valid MIDI note.")
   print("MIDI note value is", midiNote)
-</pre>
-
+```
 **Else**
-<pre>
+- Executes one part of the program if **True**
+- If **False**, executes another part of the program
+- Then jumps to end of the statement
+- Two paths
+```python
 midiNote = 64
 if midiNote <= 0 or midiNote >= 127:
   print("The note value entered is Invalid.")
 else:
   print("The note value entered is valid.")
-</pre>
-
+```
 **If/Elif/Else Conditions**
 <pre>
 midiNote = 64
@@ -173,6 +145,40 @@ if num > 0:
     print('*', end='')
     if index % 5 == 4:
       print()
+</pre>
+
+## Recursive Control Flow
+- A function that calls itself is recursive; the process of executing it is called recursion.
+- Factorials (8*7*6*5*4*3*2*1=40320) and the [Fibonacci sequence](https://www.mathsisfun.com/numbers/fibonacci-sequence.html) are recursive:
+  - Marked by self-similarity
+  - Expresses a problem in terms of a smaller version of the same problem
+- This *can sometimes* be the most efficient way to ask a computer to solve a problem
+- Can also be a tricky way to get a computer to solve a problem
+<pre>
+### good recursion
+def factorial(n):
+  if n <= 1:
+    return 1
+  else:
+    result = factorial(n-1)
+    return n*result
+///
+factorial(ZZZ)
+### can't stop won't stop - infinite recursion! stack overflow!
+def func():
+  print("Lovely!")
+  func()
+///
+func()
+///
+### recursion with a stop or base case
+def func(count):
+  if count < 0:
+    return
+  print(f"{count} Lovely!")
+  func(count - 1)
+///
+func(ZZZ)
 </pre>
 
 ## [Processing](https://processing.org/download)

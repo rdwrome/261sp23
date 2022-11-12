@@ -52,7 +52,7 @@ Final Project| 30%
 ### Guidelines for submissions
 - Every assignment must be submitted via both GitHub and the OL.
 - Late submissions will not be accepted, but I will drop the lowest homework grade.
-- Most assignments you submit must have two parts:
+- All but the first assignment you submit must have two parts:
   - the code/program itself (eg. a .py file)
   - documentation of the code/program (always a .md file)
 
@@ -65,7 +65,7 @@ Final Project| 30%
   - The documentation (again, always in Markdown) must have the following:
     - what you did
     - how you did it
-    - the problems you faced
+    - the problems you faced (ABD: always be documenting your troubleshooting!)
     - how you overcame them
     - *what code you used from others/elsewhere*
       - where to find that code
@@ -98,7 +98,7 @@ Final Project| 30%
 - When you are absent you are responsible for the materials of the class you missed. *I will not catch you up over email,* but you may come ask me questions during my office hour after you have reviewed the materials.
 - Attendance the week of Finals is mandatory (see Student Handbook).
 - I don't answer emails that can be answered with a one-step Google search (i.e. “How do I change the timezone on my Google Calendar?”).
-- I don't answer emails when the answer can be found in the syllabus(here).
+- I don't answer emails when the answer can be found in the syllabus (here).
 - When you email me, you must let me know what class/section you're in.
 - If you have a question about a grade, you must come ask it *in person* at my office hour.
 - The best way to communicate with me outside of class is *always* to make an appointment with me in my office hour.

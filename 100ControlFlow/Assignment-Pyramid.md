@@ -73,5 +73,5 @@ The first 5 integers in the console should look like this:
 						Buzz
 </pre>
 
-## MarkDown file
-- Explain your choices and the problems you faced creating both programs.
+## Documenation
+- Document the making of BOTH programs as specified in the syllabus.
