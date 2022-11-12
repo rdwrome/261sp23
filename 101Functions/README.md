@@ -4,7 +4,7 @@
 
 ## Functions
 - takes input value, does a process to it, returns an output value
-- we've been using many that are already in python, now we'll write our own!
+- we've been using many that are already built-in python (print, type, count, range), now we'll write our own!
 
 - Function Definition + Call
   - definition has to come before call, but call happens where call happens

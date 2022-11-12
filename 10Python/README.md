@@ -125,4 +125,4 @@
 - Go back to Pseudocoding
 - Break everything down into the smallest unit you can
 
-## Scratch Vs. Python (see .pdf in this folder)
+## Python vs. Scratch (see .pdf in this folder)

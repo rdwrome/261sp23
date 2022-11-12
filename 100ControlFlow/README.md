@@ -73,13 +73,16 @@ else:
 - Sends control flow back to some point in the program where it was before to repeat process with same environment.
 - We need to keep track of how many times program goes back with an accumulator.
   - count
-  - index range
+  - range
 - While loops: you don't know how many times you need to loop
+  - Repeatedly executes as long as condition is **True**
 ![](img/while.png)
 - For loops: you do know how many times you need to loop
+  - Iterates over a sequenced object like a list, once per object
 ![](img/for.png)
 
 **While with count**
+- Count is a built-in function that counts
 ```python
 count = 0
 while (count < 3): 	
@@ -99,7 +102,8 @@ else:
   print("Happy Tuesday")
 ```
 
-**For with index range**
+**For with range**
+- Range is built-in function that generates a index list of numbers
 ```python
 # Starts at 0 and goes up by one by default
 for i in range(128):
@@ -109,7 +113,7 @@ for i in range(0, 128, 2):
   print(f"The next MIDI note value is {i}")
 ```
 
-**For with index range and nesting**
+**For with range and nesting**
 ```python
 for index in range(1500, 2701, 1):
   if index % 7 == 0 and index % 5 == 0:
@@ -168,3 +172,4 @@ func(5)
 ```
 
 ## [Processing](https://processing.org/download)
+- See subfolder!
