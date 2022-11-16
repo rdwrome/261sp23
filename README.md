@@ -32,17 +32,23 @@ Marijn Haverbeke, 2018
 4. 100 Control Flow
 5. 101 Functions
 6. 110 Lists
+<br>
+[Midterm]
+<br>
 7. 111 Networks (2 weeks)
 8. 1000 JavaScript (2 weeks)
 9. 1001 Databases
+<br>
+[Final]
+<br>
 
 ## Assignments and Grading
 **Your final grade will be determined by considering the following components at the indicated weights:**  
 
 Description|Grade
 ---|---:|
-Attendance and Participation|30%
-Homework| 30%
+Attendance and Participation| 30%
+Homework (9 assignments)| 30%
 Midterm - March 16| 10%
 Final Project - May 11| 30%
 **Total**|**100%**
