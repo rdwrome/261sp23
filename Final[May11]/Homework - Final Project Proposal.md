@@ -1,7 +1,16 @@
 # Read Chapters 13, 14, 15 & 18 in "Eloquent JavaScript" by DECEMBER 1
 
 # Final Project Proposal is due DECEMBER 1
+## [An outstanding Demo Final Project](https://dylanever.itch.io/ibi)
 
+## LMSC-261 recommendations for final projects:
+  - [A-Frame](https://aframe.io/)
+  - [RenPy](https://www.renpy.org/)
+  - [Adafruit](https://www.adafruit.com/)
+  - Useful databases
+  - API interactions
+  - Portfolio Website
+  
 # Template
 
 ## What will (likely) be the title of your project?
