@@ -21,7 +21,7 @@
 
 ![listanatomy](listanatomy.png)
 
-```Python
+```python
 # up to this point, we only knew how to create
 # multiple piece of data using multiple variables
 x = 1
