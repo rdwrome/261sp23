@@ -37,18 +37,19 @@
 
 **Statements CODE ALONG**
 
-          - sqlite3 nyctofatwentyone.db //creates database
+          - sqlite3 nyctosptwentythree.db //creates database
           - CREATE TABLE 'nycto' ('id' integer, 'name' text, 'dark' text);
           - .tables //names table
           - .schema // shows structure of table named
-          - INSERT INTO nycto (id, name, dark) VALUES(2, 'rachel', 'yes');
+          - INSERT INTO nycto (id, name, dark) VALUES(2, 'rachel', 'no');
           - SELECT name FROM nycto;
           - SELECT name, dark FROM nycto;
           - SELECT * FROM nycto;
           - SELECT * FROM nycto WHERE dark = 'yes';
-          - SELECT DISTINCT name FROM nycto;
+          - SELECT DISTINCT dark FROM nycto;
           - ALTER TABLE nycto ADD COLUMN 'muchness' integer;
-          - UPDATE nycto SET dark = 'no' WHERE id = 2;
+          - UPDATE nycto SET dark = 'yes' WHERE id = 2;
+          - UPDATE nycto SET muchness = 9 WHERE id = 2;
 
 **Operators**
 
@@ -77,8 +78,9 @@
 
 **Constraints/Renaming**
 
-          - DELETE FROM nycto WHERE muchness IS NULL;
           - SELECT muchness AS 'scaredness' FROM nycto;
+          - DELETE FROM nycto WHERE muchness IS NULL;
+
 
 **Database Problems**
   - Race Condition
