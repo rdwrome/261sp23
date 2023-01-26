@@ -32,8 +32,8 @@ Marijn Haverbeke, 2018
 4. 100 Control Flow
 5. 101 Functions
 6. 110 Lists
-7. 111 Networks (2 weeks)
-8. 1000 JavaScript (2 weeks)
+7. 111 Networks (3 weeks)
+8. 1000 JavaScript
 9. 1001 Databases
 
 
@@ -76,7 +76,8 @@ Final Project - May 11| 30%
 ## Instructor Info
 - Name: Rachel Devorah Wood Rome. Call me "Rachel" or "Dr. Rome" and use "she" pronouns.
 - Email: rrome@berklee.edu
-- Office Hour: 1126 Boylston Room 208, preferentially by appointment Mondays 11-1pm. [Schedule an Appointment with Me Here.](https://calendar.google.com/calendar/selfsched?sstoken=UUJvY3FWa3g0b3dhfGRlZmF1bHR8OTk1YzM0YTAxMDljZGU5MGEzZjQxNzViOWQ2ZTM3NjA)
+- Phone: 336.355.1993
+- Office Hour: 1126 Boylston Room 209. [Schedule an Appointment with Me Here.](https://calendar.google.com/calendar/selfsched?sstoken=UUJvY3FWa3g0b3dhfGRlZmF1bHR8OTk1YzM0YTAxMDljZGU5MGEzZjQxNzViOWQ2ZTM3NjA)
 
 ### Tutor Info
 - Name: TBD
@@ -100,8 +101,10 @@ Final Project - May 11| 30%
 - Attendance the week of Finals is mandatory (see Student Handbook).
 - I don't answer emails that can be answered with a one-step Google search (i.e. “How do I change the timezone on my Google Calendar?”).
 - I don't answer emails when the answer can be found in the syllabus (here).
+- I don't answer emails evenings or weekends.
 - When you email me, you must let me know what class/section you're in.
 - If you have a question about a grade, you must come ask it *in person* at my office hour.
 - The best way to communicate with me outside of class is *always* to make an appointment with me in my office hour.
+- In an emergency, please call me.
 - If you need an accommodation for this course, please see [Accessibility Resources](https://www.berklee.edu/accessibility-resources) as soon as possible.
 - If you are subject to discrimination, harassment, or sexual misconduct in the Berklee community, please do not hesitate to talk to the [Equity Office](https://www.berklee.edu/equity).
