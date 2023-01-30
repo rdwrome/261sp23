@@ -77,12 +77,15 @@ Final Project - May 11| 30%
 - Name: Rachel Devorah Wood Rome. Call me "Rachel" or "Dr. Rome" and use "she" pronouns.
 - Email: rrome@berklee.edu
 - Phone: 336.355.1993
-- Office Hour: 1126 Boylston Room 209. [Schedule an Appointment with Me Here.](https://calendar.google.com/calendar/selfsched?sstoken=UUJvY3FWa3g0b3dhfGRlZmF1bHR8OTk1YzM0YTAxMDljZGU5MGEzZjQxNzViOWQ2ZTM3NjA)
+- Office Hours: 1126 Boylston Room 209. [Schedule an Appointment with Me Here.](https://calendar.google.com/calendar/selfsched?sstoken=UUJvY3FWa3g0b3dhfGRlZmF1bHR8OTk1YzM0YTAxMDljZGU5MGEzZjQxNzViOWQ2ZTM3NjA)
 
 ### Tutor Info
-- Name: TBD
-- Email: TBD
-- Office Hours: TBD
+- Name: Alex Wu
+- Email: qwu2@berklee.edu
+- Office Hours: 1126 Boylston Room 201
+Monday: 10:00 a.m. - 12:00 p.m., 2:00 p.m. - 4:00 p.m.
+Tuesday: 10:00 a.m. - 1:00 p.m.
+Wednesday: 11:00 a.m. - 1:00 p.m.
 
 ## Policies
 - Remote attendance is not permitted.
