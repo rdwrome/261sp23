@@ -17,7 +17,8 @@
 - Think like a computer, be literal! Algorithmic thinking!
 
 ### Simon Says Pseudocode
-<br>Imagine we are each a machine. Give us precise instructions for a simple dance using one function, one condition, and one loop.</br>
+- Imagine we are each a machine.
+- Give us precise instructions for a simple dance using one function, one condition, and one loop.
 
 ## While you Code
 
