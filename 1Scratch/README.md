@@ -1,8 +1,5 @@
 # Scratch
 
-## GitHub+theOL Report/Refresher
-- Let's make a folder for next week's assignment
-
 ## Basic Principles
 - Sequential Execution: instructions are executed in the order they're written in the program
 - Functions: actions/verbs (little mini-programs that are "encapsulated")
@@ -30,6 +27,9 @@
 
 ### Always be Documenting
 - Documentation outline in the syllabus
+
+## GitHub+theOL Report/Refresher
+- Let's make a folder for next week's assignment
 
 ## Reading Group Reports
 
