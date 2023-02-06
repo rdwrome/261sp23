@@ -3,6 +3,7 @@
 ## What is Computer Programming?
 
 ## Computers are dumb; you are smart
+- But! They can remember a lot and they're patient
 
 ## Binary Numbers
 ![](img/binarycounter.gif)
@@ -57,8 +58,8 @@
   - Sign into your GitHub account *through* GitHubDesktop
 
 ## THE TWO REPOSITORIES OF THIS CLASS
-  - One to share my materials with you (261)
-  - One to share your materials with me (itp)
+  - One to share my materials with you (261) (clone mine)
+  - One to share your materials with me (itp) (make yours)
 
 ## Version Control with Git+GitHub.com+GitHubDesktop
 
