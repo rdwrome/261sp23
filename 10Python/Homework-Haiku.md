@@ -5,7 +5,7 @@
 		- You'll need to use pwd, ls, and cd to make sure you create the .aiff file in a place you can easily find
 		- You may use a -v tag
 		- You'll need to use -o
-		- See aiff recording demo .png in this folder for even more hints
+		- See aiff.png in this folder for even more hints
 
 3. SUBMIT (as a link in the OL to an assignment folder in *your* GitHub repository):
 		- Your .aiff file
