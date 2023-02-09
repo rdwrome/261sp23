@@ -45,7 +45,7 @@
 
 	- `~` means home directory
 
-	- `nano` is a text editor within Command-line Interface (isn't Atom great!)
+	- `nano` is a text editor within Command-line Interface (isn't VSC great!)
 
 **Additional resources for Terminal and CLI**
 - [GNU Bash reference](http://www.gnu.org/software/bash/manual/bashref.html)
