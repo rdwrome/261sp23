@@ -79,6 +79,9 @@
 	- pip --version
 	- pip3 --version
 
+**Install the Python Extension in VSC**
+- View>Extensions>Python>Install
+
 **Running Python**
 
   - CLI
