@@ -1,6 +1,6 @@
 # Assignment - Mice
 
-1. Read Chapters 5 & 7 in "Think Python"
+1. Read Chapters 3 "Functions" and 5 "Conditionals and recursion" in "Think Python"
 
 2. Write a Python program (named `{yourfamilyname}mice.py`) that prints out the following lines using **only one** `print` function and where the number 3 is a value (the result of a calculation):
 

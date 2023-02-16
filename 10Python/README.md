@@ -2,6 +2,8 @@
 
 ## Made from Scratch!
 
+## MarkDown RunDown
+
 ## Compiled languages: Source, Object, Compiler, Executable Review
 - Source: what we write (human readable)
 - Compiler: translates from source to object
@@ -43,7 +45,7 @@
 
 	- `~` means home directory
 
-	- `nano` is a text editor within Command-line Interface (isn't Atom great!)
+	- `nano` is a text editor within Command-line Interface (isn't VSC great!)
 
 **Additional resources for Terminal and CLI**
 - [GNU Bash reference](http://www.gnu.org/software/bash/manual/bashref.html)
@@ -76,6 +78,9 @@
 - Check your pip!
 	- pip --version
 	- pip3 --version
+
+**Install the Python Extension in VSC**
+- View>Extensions>Python>Install
 
 **Running Python**
 
