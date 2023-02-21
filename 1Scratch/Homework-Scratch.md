@@ -1,6 +1,6 @@
 ## Assignment-Scratch
 
-1. Read Chapter 1 "The way of the Program" in "Think Python"
+1. Read Chapters 1 & 2 in "Think Python"
 
 2. Implement a Scratch project with the following requirements:
 	- Use at least two sprites (please, for my sake, no cats).

@@ -15,10 +15,10 @@
 - These are the four types we'll deal with in Python
 - CODE ALONG
 ```Python
-print(type(10)) #integer
-print(type(10.)) #float
-print(type("hello,world")) #string
-print(type(True)) #boolean
+type(10) #integer
+type(10.) #float
+type("hello,world") #string
+type(True) #boolean
 ```
 
 **Operators**
@@ -67,6 +67,7 @@ as         elif       if         or         yield
 assert     else       import     pass
 break      except     in         raise
 ```
+**Python + Memory Address**
 
 ## Strings
 ```Python
