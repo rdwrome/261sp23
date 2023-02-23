@@ -46,7 +46,7 @@ else:
 
 **Nested If/Else**
 ```python
-midiNote = 64
+midiNote = int(input("What's your favorite midiNote? "))
 if midiNote < 64:
     print("MIDI note is smaller than 64.")
     if midiNote == 48:
@@ -167,7 +167,6 @@ def func(count):
     return
   print(f"{count} Lovely!")
   func(count - 1)
-///
 func(5)
 ```
 

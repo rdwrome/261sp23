@@ -20,7 +20,6 @@ type(10.) #float
 type("hello,world") #string
 type(True) #boolean
 ```
-
 **Operators**
 - Used to perform operations on objects
 - Also sometimes called "operands"
@@ -95,6 +94,13 @@ print("Hello,", str)
 print("Hello,", str, sep='')
 print(f"Hello, {str}")
 ```
+
+- Type Casting
+```Python
+i = int(input("What's your favorite number? "))
+print(f"Your favorite number is {i}")
+```
+
 - Printing floating points
 	- what is π?
 ```Python
