@@ -57,7 +57,7 @@ else:
     print("MIDI note is greater than or equal to 64.")
 ```
 
-#### Group Exercise:
+#### 15-min Group Exercise:
 <pre>
 - Create a file named `BOSseasons.py`.
 - Write a program that prints out the seasons in Boston.
@@ -71,25 +71,22 @@ else:
 
 ### Loops
 - Sends control flow back to some point in the program where it was before to repeat process with same environment.
-- We need to keep track of how many times program goes back with an accumulator.
-  - count
-  - range
-- While loops: you don't know how many times you need to loop
+- We're often going to use them with accumulators.
+  - count (like we saw in scratch and previously in python)
+  - range (a built-in function)
+
+### While
+  - You don't know how many times you need to loop when you start
   - Repeatedly executes as long as condition is **True**
 ![](img/while.png)
-- For loops: you do know how many times you need to loop
-  - Iterates over a sequenced object like a list, once per object
-![](img/for.png)
 
 **While with count**
-- Count is a built-in function that counts
 ```python
 count = 0
 while (count < 3): 	
   count = count + 1
   print("Happy Thursday")
 ```
-
 **While/Else loop**
 - Else gives secondary path
 ![](img/whileelse.png)
@@ -101,6 +98,10 @@ while (count < 3):
 else:
   print("Happy Friday")
 ```
+#### For
+  - You do know how many times you need to loop when you start
+  - Iterates over a sequenced object like a list, once per object
+![](img/for.png)
 
 **For with range**
 - Range is built-in function that generates a index list of numbers
@@ -125,14 +126,6 @@ for i in range(10):
     if j >= i:
       print(j, end='')
   print()
-```
-```python
-num = int(input("Enter a number: "))
-if num > 0:
-  for index in range(num):
-    print('*', end='')
-    if index % 5 == 4:
-      print()
 ```
 
 ## Recursive Control Flow
