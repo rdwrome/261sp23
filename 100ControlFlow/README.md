@@ -97,9 +97,9 @@ while (count < 3):
 count = 0
 while (count < 3): 	
   count = count + 1
-  print("Happy Monday")
+  print("Happy Thursday")
 else:
-  print("Happy Tuesday")
+  print("Happy Friday")
 ```
 
 **For with range**
