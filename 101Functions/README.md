@@ -4,7 +4,7 @@
 
 ## Functions
 - takes input value, does a process to it, returns an output value
-- we've been using many that are already built-in python (print, type, count, range), now we'll write our own!
+- we've been using many that are already built-in python (print, type, range), now we'll write our own!
 
 - Function Definition + Call
   - definition has to come before call, but call happens where call happens
@@ -13,7 +13,7 @@
 def circle_area(x):
   return x * x * 3.14
 #call
-circle_area(3.0)
+print(circle_area(3.0))
 ```
 
 - See LoopvsFunction.pdf in this folder
@@ -26,21 +26,21 @@ def minimum(x,y):
     return x
   return y
 #call
-minimum (3, 4)
+print(minimum (3, 4))
 ```
 ```python
 #function
 def cube(n):
   return n * n * n
 #call
-cube(2)
+print(cube(2))
 ```
 ```python
 #function
 def sqr(x, n):
   return x ** n
 #call
-sqr(2, 3)
+print(sqr(2, 3))
 ```
 
 - Passing parameters into function argument calls
@@ -74,7 +74,7 @@ def sumup(n):
     sum += i
   return sum
 #call
-sumup(ZZZ)
+print(sumup(ZZZ))
 ```
 
 - Nesting Function Calls
@@ -88,7 +88,7 @@ def repeat_lyrics():
   print_lyrics()
   print_lyrics()
 #call
-repeat_lyrics()
+print(repeat_lyrics())
 ```
 ```python
 #function
@@ -98,7 +98,7 @@ def sqr(n):
 def pow4(n):
   return sqr(n) * sqr(n)
 #call
-pow4(ZZZ)
+print(pow4(ZZZ))
 ```
 
 - Multiple Inputs
@@ -126,7 +126,7 @@ def func(count):
   for i in range(count + 1):
     print(f"{count - i} Lovely!")
 #call
-func(3)
+print(func(3))
 ```
 
 - Function with if/else
