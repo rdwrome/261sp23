@@ -50,15 +50,6 @@ exponent = 3
 print(f"{base} to the power of {exponent} is:", sqr(base, exponent))
 ```
 ```python
-def print_stars(n):
-  while n > 0:
-    print('*',end='')
-    n -= 1
-  print()
-number = 3
-print_stars(number)
-```
-```python
 def get_radius(circumference):
   return circumference / 3.14 / 2
 number = 15
@@ -72,7 +63,7 @@ def sumup(n):
     sum += i
   return sum
 #call
-print(sumup(ZZZ))
+print(sumup(5))
 ```
 
 - Nesting Function Calls
@@ -96,7 +87,7 @@ def sqr(n):
 def pow4(n):
   return sqr(n) * sqr(n)
 #call
-print(pow4(ZZZ))
+print(pow4(2))
 ```
 
 - Multiple Inputs
