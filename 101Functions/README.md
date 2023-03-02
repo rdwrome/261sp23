@@ -154,9 +154,10 @@ print(f"Factorial of {n} is {factorial(n)}")
   - can be called from within a function with the keyword `global`
   - mostly used for boolean statements
   - "the keysignature of variables"
+  - see the Processing folder
 
 ## Functions in Processing
 
-## Pyramids and FizzBuzz!
-
 ## The midterm is coming
+
+## Pyramids and FizzBuzz!
