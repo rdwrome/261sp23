@@ -1,7 +1,5 @@
 # Functions
 
-## Pyramids and FizzBuzz!
-
 ## Functions
 - takes input value, does a process to it, returns an output value
 - we've been using many that are already built-in python (print, type, range), now we'll write our own!
@@ -167,5 +165,7 @@ print(f"Factorial of {n} is {factorial(n)}")
   - "the keysignature of variables"
 
 ## Functions in Processing
+
+## Pyramids and FizzBuzz!
 
 ## The midterm is coming
