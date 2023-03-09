@@ -86,6 +86,10 @@ Final Project - May 11| 30%
 Monday: 10:00 a.m. - 12:00 p.m., 2:00 p.m. - 4:00 p.m.
 Tuesday: 10:00 a.m. - 1:00 p.m.
 Wednesday: 11:00 a.m. - 1:00 p.m.
+- Name: Cameron Olson
+- Email: colson5@berklee.edu
+- Office Hours: 7 Haviland Liberal Arts Tutoring Room
+Monday: 11:00 a.m. - 1:00 p.m.
 
 ## Policies
 - Remote attendance is not permitted.
