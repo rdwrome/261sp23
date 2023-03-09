@@ -74,7 +74,7 @@ for instrument in instruments:
 print(instruments)
 ```
 ### Lists in Processing
-- For loops are usually usedt to iterate through lists in Processing
+- For loops are usually used to iterate through lists in Processing
 - You can also a for loop to put data *inside* a list, as is the case in the sinewave.pyde example
 	- values from the sin() function are being written to a list in the setup() function, then they become the stroke values in the draw() function
 - Something similar is happening in the two record pyde examples
