@@ -64,6 +64,7 @@ for instrument in instruments:
 	print(instrument)
 ```
 - You can also use a counter to iterate through a list with its index value
+	- but it has to be data of the same type
 ```Python
 instruments = ['Drum', 'Guitar', 'Bass']
 counter = 0
