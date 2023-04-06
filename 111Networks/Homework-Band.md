@@ -4,6 +4,11 @@
 Chapters 13, 14, 15 & 18 in "Eloquent JavaScript"
 
 - [Sample Website](https://kariestes.github.io/)
+- GROUPS:
+  - Jason, Belle, Skylar
+  - Kevin, Antonio, Daniel, Damlasu
+  - Vicente, Quinn, Alan, Gavin
+  - Reana, Shao-Wen, Dean
 
 ### In-class Assignment (Due at 12midnight tonight April 13!)
 <pre>
