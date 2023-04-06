@@ -6,7 +6,7 @@
 
 ## Cirino
 
-## Fiore
+## Fiore is a beast, on god, no cap. 
 
 ## Hale
 
