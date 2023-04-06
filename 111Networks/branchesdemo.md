@@ -10,7 +10,7 @@
 
 ## Hale
 
-## Hu
+## Hu is here, now don't you dare
 
 ## Kiyak is tired, wants to go home.
 
