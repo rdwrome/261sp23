@@ -12,7 +12,7 @@
 
 ## Hu
 
-## Kiyak
+## Kiyak is tired, wants to go home.
 
 ## McDonnell
 
