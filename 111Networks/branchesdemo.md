@@ -16,7 +16,7 @@
 
 ## McDonnell
 
-## McMath
+## McMath of the Celtic Matheson Clan
 
 ## Merk
 
