@@ -26,4 +26,8 @@
 
 ## Wang
 
+<<<<<<< Updated upstream
 ## Wong is tired for some reason and wants to sleep.
+=======
+## Wong is tired
+>>>>>>> Stashed changes
