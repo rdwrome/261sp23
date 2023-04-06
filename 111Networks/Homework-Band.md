@@ -5,11 +5,7 @@ Chapters 13, 14, 15 & 18 in "Eloquent JavaScript"
 
 - [Sample Website](https://kariestes.github.io/)
 
-### Homework for *before* class
-- *Your* GitHub Pages User Site up-and-running (meaning, the default index loads!)
-- Bring content to create a website for the in-class assignment
-
-### In-class Assignment (Due at 8:20pm April 4!)
+### In-class Assignment (Due at 12midnight tonight April 13!)
 <pre>
 You + your group mates are a new band.
 Build a simple band website together using pages.github.com where your index.html file has
