@@ -1,36 +1,29 @@
 # BRANCH BUDDIES
 
-## ROME HAS SPOKEN
+## Andreades
 
-## Badger
+## Chew
 
-## Chavez-Coleman
+## Cirino
 
-## Ding
+## Fiore
 
-## Dunaway
+## Hale
 
-## Egner
-beta mentality: would you rather have $100,000 in your bank account right now or renegade raider?
-alpha chad: renegade raider.
-(this is a fortnite joke slay lol)
-bro like why is this not working now im kinda feeling less slay :/
-omg wait i messed up haha feeling more slay again
+## Hu
 
-## Friedrich-Sroka
+## Kiyak
 
-## Gurnon
+## McDonnell
 
-## Herman
+## McMath
 
-## Liebman
+## Merk
 
-## Lim
+## Velazquez
 
-## Salinas
+## Villanueva
 
-## Savransky
+## Wang
 
-## Vogels
-
-## Ware
+## Wong
