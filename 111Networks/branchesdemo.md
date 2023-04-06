@@ -24,6 +24,6 @@
 
 ## Villanueva
 
-## Wang
+## Wang said it is a sunny day.
 
 ## Wong
