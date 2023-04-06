@@ -6,7 +6,7 @@
 
 ## Cirino's the name and tetris is the game
 
-## Fiore
+## Fiore is a beast, on god, no cap. 
 
 ## Hale is sus, they vented
 
