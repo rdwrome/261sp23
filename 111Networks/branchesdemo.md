@@ -1,7 +1,5 @@
 # BRANCH BUDDIES
 
-## Rome has spoken, the matter is closed
-
 ## Andreades
 
 ## Chew
