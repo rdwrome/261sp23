@@ -11,8 +11,8 @@
   - Portfolio Website
 
 ## Housekeeping
-  - Final Project Proposal & Eloquent JavaScript reading due December 1 (three weeks)
-  - Homework-Band due November 17 (next week)
+  - Final Project Proposal & Eloquent JavaScript reading due April 20
+  - Homework-Band due April 13 (next week)
 
 ## GitHub Branches
 
