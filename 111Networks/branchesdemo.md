@@ -16,9 +16,9 @@
 
 ## McDonnell
 
-## McMath
+## McMath of the Celtic Matheson Clan
 
-## Merk
+## Merk (I'm a seepy boy today)
 
 ## Velazquez
 
