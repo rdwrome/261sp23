@@ -8,7 +8,7 @@
 
 ## Fiore
 
-## Hale
+## Hale is sus, they vented
 
 ## Hu is here, now don't you dare
 
