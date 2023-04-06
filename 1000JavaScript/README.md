@@ -1,45 +1,6 @@
 # JavaScript
 
-## Debugging in general
-- Frustrating
-- Most of what programming is
-- ALWAYS BE DOCUMENTING (ABD!)
-- Think of it as detective work
-	- You're given evidence  and have to infer what happened
-- Or think of it as a science experiment
-	- Analyze the error message + code together
-	- Draft a theory as to why you got the bug (with notes!)
-		- record of what you've tried to fix it
-	- Make a test of your theory
-	- Monitor your code with printing functions and breakpoints
-
-## Bugs in the Wild
-
-**Syntax**
-
-- Your code broke a structure/expectation rule
-- Classic problems:
-	- keyword is a variable name
-	- colon after for, while, if, and def statements
-	- matching quotation marks in Strings
-	- matching brackets
-	- = instead of ==
-	- indentation
-	- ASCII issues
-
-**Runtime**
-
-- Something broke while it was running/just didn't run at all
-- Classic problems:
-	- Control Flow issues
-	- Recursion
-
-**Semantic**
-
-- Something is not right and your computer doesn't know it but you do
-- Hardest to figure out!
-- Go back to Pseudocoding
-- Break everything down into the smallest unit you can
+## Project Presentations
 
 ## JavaScript
 
