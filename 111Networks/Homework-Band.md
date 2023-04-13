@@ -1,16 +1,12 @@
 ## Assignment HTML
 
-## READING w/MD FOR NEXT WEEK!
-Chapters 13, 14, 15 & 18 in "Eloquent JavaScript"
-
+### (Documentation Due 9am April 18)
 - [Sample Website](https://kariestes.github.io/)
 - GROUPS:
   - Jason, Belle, Skylar
-  - Kevin, Antonio, Daniel, Damlasu
+  - Kevin, Antonio, Daniel
   - Vicente, Quinn, Alan, Gavin
   - Reana, Shao-Wen, Dean
-
-### In-class Assignment (Due at 12midnight tonight April 13!)
 <pre>
 You + your group mates are a new band.
 Build a simple band website together using pages.github.com where your index.html file has
