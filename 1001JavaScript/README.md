@@ -1,6 +1,6 @@
 # JavaScript
 
-## Project Presentations
+## Group Project Presentations
 
 ## JavaScript
 
