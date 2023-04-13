@@ -11,8 +11,8 @@
   - Portfolio Website
 
 ## Housekeeping
-  - Final Project Proposal & Eloquent JavaScript reading due April 20
-  - Homework-Band due April 13 (next week)
+  - Final Project Proposal
+  - Homework-Band
 
 ## GitHub Branches
 
