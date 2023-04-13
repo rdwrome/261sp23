@@ -1,6 +1,6 @@
 # LMCS-261: Introduction to Computer Programming
 
-Welcome, Programmers!!!
+Welcome, Programmers!
 
 ## Description
 In this course, students learn the fundamentals of computer programing that serve as a foundation for developing software applications and further exploration of programming languages. Instead of focusing on a single language or platform, this course prepares students to understand computer code in general and to understand the role computers can play in solving real-world and creative problems. By recognizing the concepts that are universal in computer programming, students are better prepared to understand any codes they come across, providing them with advanced problem-solving skills that are important when adapting to different languages based on specific situations. The logical thinking and technical skills students learn in this course can be used to develop a wide range of practical applications on the web, and in game, software, and product development. Because Berklee is an Apple institution, software applications are used with MacOS.
@@ -25,17 +25,16 @@ Marijn Haverbeke, 2018
 * This is an [Equitable](https://www.berklee.edu/equity-policy-and-process/equity-policy) learning environment. Our coding code of conduct means: problem-solve constructively with respectful language; be patient with yourselves and others (especially when mistakes are made); never posture/pose/attitudinize; always speak up and admit when you do not understand something - it is the smartest thing you can do.
 
 ## Topics
-0. 0 Hello, world
-1. 1 Scratch
-2. 10 Python
-3. 11 Variables and Operators
-4. 100 Control Flow
-5. 101 Functions
-6. 110 Lists
-7. 111 Networks (3 weeks)
-8. 1000 JavaScript
-9. 1001 Databases
-
+0. Hello, world
+1. Scratch
+2. Python
+3. Variables and Operators
+4. Control Flow
+5. Functions
+6. Lists
+7. Networks
+8. JavaScript
+9. Databases
 
 ## Assignments and Grading
 **Your final grade will be determined by considering the following components at the indicated weights:**  
@@ -69,7 +68,7 @@ Final Project - May 11| 30%
     - the problems you faced (ABDYD: always be documenting your debugging!)
     - how you overcame them
     - *what code you used from others/elsewhere*
-      - where to find that code (specific links!)
+      - where to find that code (specific links!!!)
     - If your problem set does not run correctly document all your debugging. I will take points off for code that does not run correctly, but will still give partial credit if it is well-documented.
     - For the purposes of this class, your documentation also helps you prepare to talk about your code in class with your colleagues.
 
@@ -98,9 +97,8 @@ Monday: 11:00 a.m. - 1:00 p.m.
 - You will be held to the Berklee Policy on Honesty in Academic Work (see Student Handbook).
 - You must attend class with the computer you're using for class projects (no phones, no tablets, no borrowed laptops).
 - Keep your laptops closed and other electronic devices out of hand during lectures and discussions unless you're taking notes.
-- Excused absences may be granted in advance of class or with a doctors note specifying the day of the absence or a note from your advisor.
+- 2 excused absences may be granted in advance of class.
 - Whether an absence is excused or not is at my discretion and will not be excused for gigs, studio time, or visiting artist events.
-- More than 2 excused absences require a note from your advisor. Without such a note, they’ll be unexcused.
 - If you are more than 5 minutes late for class or leave more than 5 minutes early, you'll automatically receive a partial attendance grade for the week.
 - If you miss more than 40 minutes of class, you'll be marked absent.
 - If you are disruptive in the class (talking, sleeping, using your laptop or phone beyond classwork) you'll receive one written warning and then receive a partial attendance grade if/when the disruptive behavior continues.
