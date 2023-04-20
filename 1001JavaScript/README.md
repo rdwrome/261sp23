@@ -2,6 +2,8 @@
 
 ## Group Project Presentations
 
+## Final Project Proposals
+
 ## JavaScript
 
 **Why?**
